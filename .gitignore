@@ -1,0 +1,15 @@
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
+
+# Test data (sample bundles/configs)
+tests/
+
+# Generated output
+triage-output-*/
+
+# Support bundles (large files)
+*.tgz
+*.tar.gz
